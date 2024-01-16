@@ -1,0 +1,4 @@
+google-cloud
+cassandra-driver
+pandas
+
